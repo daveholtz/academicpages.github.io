@@ -12,4 +12,4 @@ The discovery of argon from deep underground sources with significantly less <su
 
 [Download paper here](http://www.sciencedirect.com/science/article/pii/S0927650515000043)
 
-Recommended citation: Xu, J., et al. "A study of the trace 39 Ar content in argon from deep underground sources." <i>Astroparticle Physics</i> 66 (2015): 53-60.
+Recommended citation: Xu, J., et al. "A study of the trace <sup>39</sup>Ar content in argon from deep underground sources." <i>Astroparticle Physics</i> 66 (2015): 53-60.

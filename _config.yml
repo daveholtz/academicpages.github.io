@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dave Holtz"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dave Holtz"
+description              : &description "Information Technology PhD Student at MIT Sloan School of Management"
+url                      : https://daveholtz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "daveholtz/daveholtz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,24 +78,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dave Holtz"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student in Information Technology at MIT Sloan School of Management"
+  location         : "Cambridge, MA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=fK6GcrkAAAAJ"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "dave.m.holtz"
   foursquare       :
-  github           : "academicpages"
+  github           : "daveholtz"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "davemholtz"
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "daveholtz"
   vine             :
   weibo            :
   xing             :

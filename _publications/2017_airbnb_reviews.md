@@ -1,4 +1,4 @@
-
+---
 title: "The determinants of online review informativeness: Evidence from field experiments on Airbnb."
 collection: publications
 permalink: /publication/2017_airbnb_reviews

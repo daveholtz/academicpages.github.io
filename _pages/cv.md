@@ -11,22 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Information Technology, MIT Sloan School of Management, 2020 (expected)
+* M.A. in Physics & Astronomy, The Johns Hopkins University, 2012
+* A.B. in Physics (certificate in Theater & Dance), Princeton University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Core Data Science PhD Research Intern (May 2017 - August 2017)
+  * Facebook, Inc.
+  * Duties included: 
+  * Supervisor: [Alex Dow](https://research.fb.com/people/dow-alex/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Core Data Science PhD Research Intern (May 2016 - August 2016)
+  * Facebook, Inc.
+  * Duties included:
+  * Supervisor: [Diana MacLean](https://research.fb.com/people/maclean-diana/)
+
+* Data Scientist (February 2014 - December 2015)
+  * Airbnb, Inc.
+  * Duties included:
+  * Supervisor: [Elena Grewal](https://www.linkedin.com/in/elena-grewal/)
+
+
 Skills
 ======
 * Skill 1
